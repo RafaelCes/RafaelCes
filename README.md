@@ -28,7 +28,6 @@ Olá, me chamo **Rafael Cavalcante**, sou de Belo Horizonte, Brasil e atualmente
 
 **Meus interesses pessoais:**
 
-  <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="400px" />
 
 - 👨🏽‍💻 Atualmente no bloco de back-end no curso da Trybe;
 - 🌱 Vou participar de uma aceleração para aprender Java na Trybe; 
