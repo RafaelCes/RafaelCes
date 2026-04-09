@@ -26,14 +26,6 @@ Here are some ideas to get you started:
 
 Olá, me chamo **Rafael Cavalcante**, sou de Belo Horizonte, Brasil e atualmentebusco oportunidades na area de  **Desenvolvimento Web** 🚀. 
 
-**Meus interesses pessoais:**
-
-
-- 👨🏽‍💻 Atualmente no bloco de back-end no curso da Trybe;
-- 🌱 Vou participar de uma aceleração para aprender Java na Trybe; 
-- 🤔 Meus hobbies são desing de jogos e series animadas;
-- 💼 Estou buscando conhecimento para começar a minha carreira de desenvolvedor;
-- 📫 Por favor, envie um email para **rafael.cavalcante.es@gmail.com** para me encontrar.
 
 
 <br />
